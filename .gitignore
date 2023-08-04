@@ -1,0 +1,101 @@
+# Default files and directories to ignore in all projects
+__pycache__/
+*.py[cod]
+*.bak
+*.swp
+*.db
+*.sqlite
+*.log
+*.DS_Store
+*.idea/
+
+# Virtual environments (e.g., virtualenv, pipenv, venv, etc.)
+venv/
+env/
+*.env
+
+# Dependencies
+lib/
+libs/
+lib64/
+node_modules/
+bower_components/
+
+# IDE-specific configuration files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.pyc
+*.pyo
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Build and cache files
+build/
+dist/
+__pycache__/
+.cache/
+
+# Generated files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Generated documentation
+docs/_build/
+
+# Configuration files
+*.cfg
+*.conf
+*.ini
+*.env
+
+# Development environments
+.history/
+.gradle/
+.idea/
+.vscode/
+__pycache__/
+*.egg-info/
+*.egg
+*.komodoproject
+.bundle/
+.rustproj/
+.ccls-cache/
+cargo.lock
+*.cache
+
+# User files for Jetbrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# User files for PyCharm
+*.pycharm
+*.pycharm.*
+
+# User files for WebStorm
+*.wsd
+
+# User files for IntelliJ IDEA
+*.idea/
+*.iml
+*.iws
+*.ipr
+
+# User files for CLion
+*.idea/
+*.iml
+*.iws
+*.ipr
+
+# User files for Rider
+.idea/
+*.sln
+*.csproj
+*.userprefs
